@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>GPT출산코드</title>
+    <title>회원가입</title>
 </head>
 <body>
 <h1>회원가입 입력 내역</h1>
